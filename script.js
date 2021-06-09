@@ -10,10 +10,6 @@ function comparison () {
   }
 
   else if (age <= hello) {
-  alert('You can Watch PG-13 rated movies alone')
-  } 
-
-  else {
-    alert('You can Watch PG or G rated movies alone')
+  alert('You can Watch PG-13, PG, or G rated movie alone')
   }
 }
